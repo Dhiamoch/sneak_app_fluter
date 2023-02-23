@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "81840889049",
+    "project_id": "sneak-project",
+    "storage_bucket": "sneak-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:81840889049:android:1df02335d040ccab5032c8",
+        "android_client_info": {
+          "package_name": "com.example.mobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "81840889049-3t7bvdngi8699ib5p01ucf0taq8d2bas.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBU4SOIf-P3qXfhCg6vDwciv_3YKconPaY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "81840889049-3t7bvdngi8699ib5p01ucf0taq8d2bas.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
